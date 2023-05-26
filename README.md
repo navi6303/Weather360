@@ -1,5 +1,5 @@
 
-# Weather360°
+# Weather360°![favicon](https://github.com/navi6303/Weather360/assets/94692993/ca4c3737-d3c7-42d4-b99c-523b8289b0b2)
 
 This weather web application is a powerful and user-friendly platform designed to provide accurate and real-time weather information to users. Built using a combination of React.js, HTML, JavaScript, Tailwind CSS, and APIs such as OpenWeather,and it delivers an immersive and seamless experience. The integration of the OpenWeather API allows for the retrieval of precise weather data, including temperature, humidity, wind speed, precipitation, and more.
 
